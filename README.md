@@ -1,2 +1,4 @@
-# Kadois
-My website
+<DOCTYPE html>
+<html>
+  
+</html>
